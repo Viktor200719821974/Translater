@@ -1,0 +1,46 @@
+h2 {
+    margin-left: 24px;
+}
+input {
+    height: 24px;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+    border: 2px solid #e5e5e5;
+}
+input:focus {
+    outline: none !important;
+    border: #e5e5e5 2px solid;
+}
+.input {
+    margin: 12px 24px;
+    display: flex;
+}
+.icon_search {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 4px;
+    border: #e5e5e5 2px solid;
+    border-left: none;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+.div_wrap_english_phrases {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 24px;
+}
+.div_english_phrases {
+    font-size: 18px;
+    font-weight: 600;
+    padding: 8px;
+    border: 2px solid #e5e5e5;
+    border-radius: 4px;
+    margin: 4px;
+    color: #9b9696;
+    cursor: pointer;
+}
+.div_english_phrases:hover {
+    color: black;
+    background-color: #e5e5e5;
+}
