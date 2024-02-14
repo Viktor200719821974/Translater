@@ -25,6 +25,22 @@ input:focus {
     border-top-right-radius: 8px;
     border-bottom-right-radius: 8px;
 }
+.search_block {
+    margin: 12px 24px;
+}
+.span_english {
+    font-size: 20px;
+    font-weight: bold;
+    color: green;
+    margin-bottom: 12px;
+}
+.span_translate {
+    font-size: 20px;
+    margin-left: 12px;
+    font-weight: bold;
+    color: blue;
+    margin-bottom: 12px;
+}
 .div_wrap_english_phrases {
     display: flex;
     flex-wrap: wrap;

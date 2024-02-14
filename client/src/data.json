@@ -252,116 +252,201 @@
     },
     {
         "id": 61,
-        "english": "",
-        "ukraine": ""
+        "english": "call back",
+        "ukraine": "передзвонити"
     },
     {
         "id": 62,
-        "english": "",
-        "ukraine": ""
+        "english": "get free",
+        "ukraine": "звільнятися"
     },
     {
         "id": 63,
-        "english": "",
-        "ukraine": ""
+        "english": "as soon as I get free",
+        "ukraine": "як тільки я звільнюся"
     },
     {
         "id": 64,
-        "english": "",
-        "ukraine": ""
+        "english": "break down",
+        "ukraine": "зламатися"
     },
     {
         "id": 65,
-        "english": "",
-        "ukraine": ""
+        "english": "not suprisingly",
+        "ukraine": "не дивно"
     },
     {
         "id": 66,
-        "english": "",
-        "ukraine": ""
+        "english": "bring up",
+        "ukraine": "виховувати"
     },
     {
         "id": 67,
-        "english": "",
-        "ukraine": ""
+        "english": "by whom",
+        "ukraine": "ким"
     },
     {
         "id": 68,
-        "english": "",
-        "ukraine": ""
+        "english": "grow up",
+        "ukraine": "вирости"
     },
     {
         "id": 69,
-        "english": "",
-        "ukraine": ""
+        "english": "despite the fact that",
+        "ukraine": "Незважаючи на те, що"
     },
     {
         "id": 70,
-        "english": "",
-        "ukraine": ""
+        "english": "in spite of the fact that",
+        "ukraine": "незважаючи на те, що"
     },
     {
         "id": 71,
-        "english": "",
-        "ukraine": ""
+        "english": "disadvantage",
+        "ukraine": "неблагонадійний"
     },
     {
         "id": 72,
-        "english": "",
-        "ukraine": ""
+        "english": "carry on",
+        "ukraine": "продовжуй"
     },
     {
         "id": 73,
-        "english": "",
-        "ukraine": ""
+        "english": "cheer up",
+        "ukraine": "підбадьорюватися"
     },
     {
         "id": 74,
-        "english": "",
-        "ukraine": ""
+        "english": "come across",
+        "ukraine": "випадково зустрітися(столкнутись)"
     },
     {
         "id": 75,
-        "english": "",
-        "ukraine": ""
+        "english": "do up",
+        "ukraine": "застібнути(пристібнути)"
     },
     {
         "id": 76,
-        "english": "",
-        "ukraine": ""
+        "english": "get cold",
+        "ukraine": "простудитися"
     },
     {
         "id": 77,
-        "english": "",
-        "ukraine": ""
+        "english": "cut down",
+        "ukraine": "зрубувати"
     },
     {
         "id": 78,
-        "english": "",
-        "ukraine": ""
+        "english": "cut down on",
+        "ukraine": "зменшити уживання"
     },
     {
         "id": 79,
-        "english": "",
-        "ukraine": ""
+        "english": "get on",
+        "ukraine": "сісти в (потяг, автобус)"
     },
     {
         "id": 80,
-        "english": "",
-        "ukraine": ""
+        "english": "get off",
+        "ukraine": "зійти з (потягу, автобуса)"
     },
     {
         "id": 81,
-        "english": "",
-        "ukraine": ""
+        "english": "get into",
+        "ukraine": "сісти в (машину, таксі), потрапити, поступити"
     },
     {
         "id": 82,
+        "english": "hurry up",
+        "ukraine": "квапитися"
+    },
+    {
+        "id": 83,
+        "english": "look forward to",
+        "ukraine": "чекати з нетерпінням"
+    },
+    {
+        "id": 84,
+        "english": "look into",
+        "ukraine": "досліджувати, вивчати (справу)"
+    },
+    {
+        "id": 85,
+        "english": "look up",
+        "ukraine": "подивитись щось(в словарі)"
+    },
+    {
+        "id": 86,
+        "english": "pick up",
+        "ukraine": "заїхати, підбирати"
+    },
+    {
+        "id": 87,
+        "english": "pay back",
+        "ukraine": "відплатити, повертати гроші"
+    },
+    {
+        "id": 88,
+        "english": "hang up",
+        "ukraine": "повісити трубку"
+    },
+    {
+        "id": 89,
+        "english": "to be forced to",
+        "ukraine": "бути змушеним"
+    },
+    {
+        "id": 90,
+        "english": "turn out",
+        "ukraine": "виявитися"
+    },
+    {
+        "id": 91,
+        "english": "brighten up",
+        "ukraine": "скрасити (день)"
+    },
+    {
+        "id": 92,
+        "english": "definitely",
+        "ukraine": "безумовно"
+    },
+    {
+        "id": 93,
+        "english": "pay off",
+        "ukraine": "окупатися, погасити (кредит)"
+    },
+    {
+        "id": 94,
+        "english": "fall apart",
+        "ukraine": "розвалитися, провалитися"
+    },
+    {
+        "id": 95,
+        "english": "set up",
+        "ukraine": "засновувати, встановити (програму)"
+    },
+    {
+        "id": 96,
+        "english": "make up",
+        "ukraine": "складати (речення)"
+    },
+    {
+        "id": 97,
+        "english": "on my own",
+        "ukraine": "самостійно"
+    },
+    {
+        "id": 98,
         "english": "",
         "ukraine": ""
     },
     {
-        "id": 83,
+        "id": 99,
+        "english": "",
+        "ukraine": ""
+    },
+    {
+        "id": 100,
         "english": "",
         "ukraine": ""
     }
